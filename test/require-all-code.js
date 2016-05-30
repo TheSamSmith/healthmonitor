@@ -1,5 +1,5 @@
 before(function() {
-   require('../app.js');
+   require('../index.js');
 });
 
 it('loaded all code (for accurate coverage stats)', function(){});
